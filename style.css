@@ -25,14 +25,13 @@ font-family:'cursive','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-seri
 background-color: black;
 }
 ul{
-      font-family: 'Bellota',
-      'cursive';
-      color:yellow;
-      
-}
+      font-family: 'Bellota','cursive';
+      color:rgb(241, 72, 72);
+      font-style:bold;
+      }
 #name {
     float: left;
-    margin-left: 20px;
+    margin-left: 20px;s
     padding-bottom: 20px;
     font-size: 19px;
     font-family:  'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
@@ -71,7 +70,7 @@ a:hover {
     margin-left: 14%;
     height: auto;
     width: auto;
-    background-color: #df95df;
+    background-color: #e4c0e4;
 }
 
 .left
@@ -140,7 +139,7 @@ td {
 .job-duration {
     float: right;
       font-family: 'Bellota','cursive';
-      color:rgb(129, 0, 0);
+      color:yellow;
 }
 img {
     display: block;
@@ -151,10 +150,13 @@ img {
     height: 30%;
     align-self: left;
 }
+
 #heading {
     font-weight: bold;
       font-family: 'Bellota','cursive';
       color:#f7f307;
 }
+
+
 
 
